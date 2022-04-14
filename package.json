@@ -25,7 +25,8 @@
     "express": "^4.17.3",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.2.9",
-    "stripe": "^8.215.0"
+    "stripe": "^8.215.0",
+    "webpack": "^5.72.0"
   },
   "devDependencies": {
     "cross-env": "^7.0.3",
