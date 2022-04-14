@@ -24,6 +24,9 @@
     "mongoose": "^6.2.9",
     "stripe": "^8.215.0"
   },
+  "engines": {
+    "node": "16.13"
+  },
   "devDependencies": {
     "nodemon": "^2.0.15"
   }
